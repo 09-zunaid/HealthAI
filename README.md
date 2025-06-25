@@ -1,5 +1,3 @@
-# HealthAI
-Intelligent Healthcare Assistant 
 # HealthAI: Intelligent Healthcare Assistant
 
 HealthAI is a smart healthcare assistant built with Streamlit and IBM Watson's Granite-13b-instruct-v2 model. It helps users understand symptoms, explore treatment options, chat with AI for medical questions, and visualize health data trends.
